@@ -1,1 +1,11 @@
 yandex.com, 321902679, DIRECT
+# Huawei Petal Ads (добавляем это вниз)
+acd.op.hicloud.com,1914591998921969664,DIRECT
+adx-dre.op.hicloud.com,1914591998921969664,DIRECT
+adx-drru.op.hicloud.com,1914591998921969664,DIRECT
+adx-dra.op.hicloud.com,1914591998921969664,DIRECT
+adx-drru.op.dbankcloud.ru,1914591998921969664,DIRECT
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf9807,DIRECT
+catapultx.com,141027,DIRECT
+outbrain.com,00290df154099d402e372c48127471b153,DIRECT
+appnexus.com,7597,RESELLER,f5ab79cb980f11d1
